@@ -1,0 +1,8 @@
+{
+  "name": "Remix YouTube Transcript Extractor",
+  "description": "Generate a YouTube transcript in seconds with our free YouTube transcript generator. Paste a video link, then copy or download your transcript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

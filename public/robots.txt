@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Allow: /api/health
+Disallow: /api/transcript
+
+# Host & Sitemaps
+Sitemap: https://ais-dev-kmeejcio5rzu2bb3tbeobf-501369203254.asia-southeast1.run.app/sitemap.xml

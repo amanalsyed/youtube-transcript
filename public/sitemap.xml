@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Homepage & Core Application -->
+  <url>
+    <loc>https://ais-dev-kmeejcio5rzu2bb3tbeobf-501369203254.asia-southeast1.run.app/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- How It Works Section -->
+  <url>
+    <loc>https://ais-dev-kmeejcio5rzu2bb3tbeobf-501369203254.asia-southeast1.run.app/#how-it-works</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Features Section -->
+  <url>
+    <loc>https://ais-dev-kmeejcio5rzu2bb3tbeobf-501369203254.asia-southeast1.run.app/#features</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- FAQ Section -->
+  <url>
+    <loc>https://ais-dev-kmeejcio5rzu2bb3tbeobf-501369203254.asia-southeast1.run.app/#faq</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
